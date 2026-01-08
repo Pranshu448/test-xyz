@@ -1,0 +1,45 @@
+# --------------------
+# Node.js
+# --------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --------------------
+# Environment files
+# --------------------
+.env
+.env.*
+client/.env
+server/.env
+
+# --------------------
+# Build outputs
+# --------------------
+dist/
+build/
+client/dist/
+client/build/
+.vite/
+
+# --------------------
+# Cache
+# --------------------
+.cache/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Editor (optional)
+# --------------------
+.vscode/
